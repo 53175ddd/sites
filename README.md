@@ -6,7 +6,8 @@ GitHub Pagesなんも分からん
 # 自己紹介
 
 日本のどこかにいる、割となんでもやってる学生です  
-Twitter：<https://twitter.com/HarusameTech>
+Twitter：<https://twitter.com/HarusameTech>  
+GitHub：<https://github.com/Riku-mc>
 
 # 活動
 
