@@ -13,5 +13,5 @@
 
 ### CAD 図
 
-<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img1.png" width="75%"></div>
-<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img2.png" width="75%"></div>
+<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-img1.png" width="75%"></div>
+<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-img2.png" width="75%"></div>
