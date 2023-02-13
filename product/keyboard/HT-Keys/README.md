@@ -17,11 +17,11 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 
 ### CAD 図
 
-<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-F.png" width="75%"></div>
-<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-B.png" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-F.png" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-B.png" width="75%"></div>
 
 ### 画像ギャラリー
 
-<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-img3.jpg" width="75%"></div>
-<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-img4.jpg" width="75%"></div>
-<div align="center"><img src="./../../img/HT-Keys-TKL/HT-Keys-TKL-img5.jpg" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img3.jpg" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img4.jpg" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img5.jpg" width="75%"></div>
