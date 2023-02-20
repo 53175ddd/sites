@@ -28,3 +28,8 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 <div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img3.jpg" width="100%"></div>
 <div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img4.jpg" width="100%"></div>
 <div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img5.jpg" width="100%"></div>
+
+### ファームウェア
+
+本キーボードのファームウェアは <https://github.com/Riku-mc/HT-Keys/releases> で公開しています。また、<https://github.com/Riku-mc/HT-Keys/> で開発を行っています。bug fix や最適化等、ございましたら Pull Request 頂ければ対応いたします  
+更新情報は Twitter で告知いたします。ハッシュタグ [#HT_Keys_TKL](https://twitter.com/hashtag/HT_Keys_TKL?src=hashtag_click) を付けて投稿いたしますので、適宜ご確認頂ければ幸いです
