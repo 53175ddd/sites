@@ -8,6 +8,7 @@ GitHub Pagesなんも分からん
 日本のどこかにいる、割となんでもやってる学生です  
 Twitter：<https://twitter.com/HarusameTech>  
 GitHub：<https://github.com/Riku-mc>  
+Misskey：<https://misskey.io/@Haru32768>  
 Booth：<https://harusametech.booth.pm/>
 
 # 活動
