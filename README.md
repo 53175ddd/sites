@@ -7,7 +7,7 @@ GitHub Pagesなんも分からん
 
 日本のどこかにいる、割となんでもやってる学生です  
 Twitter：<https://twitter.com/HarusameTech>  
-GitHub：<https://github.com/Riku-mc>
+GitHub：<https://github.com/Riku-mc>  
 Booth：<https://harusametech.booth.pm/>
 
 # 活動
@@ -22,3 +22,5 @@ Booth：<https://harusametech.booth.pm/>
 <https://harusametech.booth.pm/items/4568322>
 
 詳細：<https://www.harusame.tech/product/keyboard/HT-Keys>
+
+簡単なものでしたら依頼もお受けしています。相談等お気軽にどうぞ
