@@ -8,7 +8,7 @@
 Twitter：<https://twitter.com/HarusameTech>  
 GitHub：<https://github.com/Riku-mc>  
 Misskey：<https://misskey.io/@Haru32768>  
-Booth：<https://harusametech.booth.pm/>
+Booth：<https://harusametech.booth.pm/>  
 サイト：<https://www.harusame.tech/>
 
 # 活動
