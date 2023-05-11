@@ -5,10 +5,15 @@
 # 自己紹介
 
 日本のどこかにいる、割となんでもやってる学生です  
+なんちゃって低 Layer エンジニア  
+回路・基板設計や組み込みプログラム作成を趣味でやってます
+
+## リンク集
+
 Twitter：<https://twitter.com/HarusameTech>  
 GitHub：<https://github.com/Riku-mc>  
 Misskey：<https://misskey.io/@Haru32768>  
-Booth：<https://harusametech.booth.pm/>  
+物販：<https://harusametech.booth.pm/>  
 サイト：<https://www.harusame.tech/>  
 干し芋：<https://www.amazon.co.jp/hz/wishlist/ls/1FH3A365JT0D2>
 
