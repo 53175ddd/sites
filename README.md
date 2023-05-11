@@ -9,7 +9,8 @@ Twitter：<https://twitter.com/HarusameTech>
 GitHub：<https://github.com/Riku-mc>  
 Misskey：<https://misskey.io/@Haru32768>  
 Booth：<https://harusametech.booth.pm/>  
-サイト：<https://www.harusame.tech/>
+サイト：<https://www.harusame.tech/>  
+干し芋：<https://www.amazon.co.jp/hz/wishlist/ls/1FH3A365JT0D2>
 
 # 活動
 
