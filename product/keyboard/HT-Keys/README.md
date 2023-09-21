@@ -7,13 +7,10 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 
 ### 概要
 
-- US 配列
-- テンキーレス
-- 全 87 キー
+- US 配列テンキーレス（87 キー）
 - USB Type-C インターフェース採用
 - CherryMX プロファイル
-- RP2040 搭載
-- Raspberry Pi Pico 互換仕様
+- RP2040 搭載 Raspberry Pi Pico 互換仕様
 - ファームウェアレベルでカスタマイズ可能
 
 ### 画像ギャラリー
@@ -31,5 +28,5 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 
 ### ファームウェア
 
-本キーボードのファームウェアは <https://github.com/Riku-mc/HT-Keys/releases> で公開しています。また、<https://github.com/Riku-mc/HT-Keys/> で開発を行っています。bug fix や最適化等、ございましたら Pull Request 頂ければ対応いたします  
+本キーボードのファームウェアは <https://github.com/53175ddd/HT-Keys/releases> で公開しています。また、<https://github.com/53175ddd/HT-Keys/> で開発を行っています。bug fix や最適化等、ございましたら Pull Request 頂ければ対応いたします  
 更新情報は Twitter で告知いたします。ハッシュタグ [#HT_Keys_TKL](https://twitter.com/hashtag/HT_Keys_TKL?src=hashtag_click) を付けて投稿いたしますので、適宜ご確認頂ければ幸いです
