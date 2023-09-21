@@ -11,7 +11,7 @@
 ## リンク集
 
 Twitter：<https://twitter.com/HarusameTech>  
-GitHub：<https://github.com/Riku-mc>  
+GitHub：<https://github.com/53175ddd>  
 Misskey：<https://misskey.io/@Haru32768>  
 物販：<https://harusametech.booth.pm/>  
 サイト：<https://www.harusame.tech/>  
