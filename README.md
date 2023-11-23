@@ -1,4 +1,4 @@
-# console.log('Hello-World')
+# printf("Hello, World!");
 
 このサイトは私の自己紹介兼ポートフォリオサイトです。GitHub Pages でホスティングしています
 
