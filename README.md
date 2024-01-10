@@ -24,9 +24,9 @@ Misskey：<https://misskey.io/@Haru32768>
 
 - オリジナル自作キーボード基板「HT-Keys-TKL」の基板を設計
 
-<div align="center"><img src="./img/HT-Keys-TKL/HT-Keys-TKL-img4.jpg" width="75%"></div>
+<div align="center"><img src="./img/HT-Keys-TKL/HT-Keys-TKL-img-d1.jpg" width="75%"></div>
 
-8 セット程在庫ございます。Booth までどうぞ。ご相談やご質問等ございましたら DM 頂ければ対応いたします。お気軽にお寄せください  
+若干数在庫ございます。Booth までどうぞ。ご相談やご質問等ございましたら DM 頂ければ対応いたします。お気軽にお寄せください  
 <https://harusametech.booth.pm/items/4568322>
 
 詳細：<https://www.harusame.tech/product/keyboard/HT-Keys>
