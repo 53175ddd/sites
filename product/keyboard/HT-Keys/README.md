@@ -17,14 +17,17 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 
 #### CAD イメージ
 
-<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-F.png" width="100%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-B.png" width="100%"></div>
 <div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-B.png" width="100%"></div>
 
 #### 実物写真
 
-<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img3.jpg" width="100%"></div>
-<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img4.jpg" width="100%"></div>
-<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img5.jpg" width="100%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img-d1.jpg" width="100%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img-d2.jpg" width="100%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img-d3.jpg" width="100%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img-d4.jpg" width="100%"></div>
+
+
 
 ### ファームウェア
 
