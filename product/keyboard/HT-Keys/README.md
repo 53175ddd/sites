@@ -27,7 +27,9 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 <div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img-d3.jpg" width="100%"></div>
 <div align="center"><img src="./../../../img/HT-Keys-TKL/HT-Keys-TKL-img-d4.jpg" width="100%"></div>
 
+### 販売
 
+ご購入はこちらから：<https://harusametech.booth.pm/items/4568322>
 
 ### ファームウェア
 
