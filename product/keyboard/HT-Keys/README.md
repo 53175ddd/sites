@@ -33,5 +33,9 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 
 ### ファームウェア
 
-本キーボードのファームウェアは <https://github.com/53175ddd/HT-Keys/releases> で公開しています。また、<https://github.com/53175ddd/HT-Keys/> で開発を行っています。bug fix や最適化等、ございましたら Pull Request 頂ければ対応いたします  
+本キーボードのファームウェアは <https://github.com/HarusameTech/HT-Keys/releases> で公開しています。また、<https://github.com/HarusameTech/HT-Keys/> で開発を行っています。bug fix や最適化等、ございましたら Pull Request 頂ければ対応いたします  
 更新情報は Twitter で告知いたします。ハッシュタグ [#HT_Keys_TKL](https://twitter.com/hashtag/HT_Keys_TKL?src=hashtag_click) を付けて投稿いたしますので、適宜ご確認頂ければ幸いです
+
+### Special Thanks
+
+本キーボード基板の撮影を [@daikonoroshi80](https://twitter.com/daikonoroshi80) 氏に撮っていただきました．この場を借りて御礼申し上げます
