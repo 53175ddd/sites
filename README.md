@@ -22,12 +22,14 @@ Misskey：<https://misskey.io/@Haru32768>
 
 ## 基板設計
 
-- オリジナル自作キーボード基板「HT-Keys-TKL」の基板を設計
+- オリジナル自作キーボード基板「HT-Keys-TKL」ならびに「HT-Keys-TK」の基板を設計
 
 <div align="center"><img src="./img/HT-Keys-TKL/HT-Keys-TKL-img-d1.jpg" width="75%"></div>
+<div align="center"><img src="./img/HT-Keys-TK/HT-Keys-TK-img-1.jpg" width="75%"></div>
 
 若干数在庫ございます．Booth までどうぞ．ご相談やご質問等ございましたら DM 頂ければ対応いたします．お気軽にお寄せください  
-<https://harusametech.booth.pm/items/4568322>
+- <https://harusametech.booth.pm/items/4568322>
+- <https://harusametech.booth.pm/items/5220405>
 
 詳細：<https://www.harusame.tech/product/keyboard/HT-Keys>
 
