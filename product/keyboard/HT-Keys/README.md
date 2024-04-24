@@ -35,11 +35,23 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 
 ### 概要
 
+- マクロキー付きテンキー（23 キー）
+- 秋月電子製 AE-RP2040 採用
+- Kailh ロープロファイル対応
+- ファームウェアレベルでカスタマイズ可能
+
 ### 画像ギャラリー
 
 #### CAD イメージ
 
+<div align="center"><img src="./../../../img/HT-Keys-TK/HT-Keys-TK-F.png" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TK/HT-Keys-TK-B.png" width="75%"></div>
+
 #### 実物写真
+
+<div align="center"><img src="./../../../img/HT-Keys-TK/HT-Keys-TK-img-1.jpg" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TK/HT-Keys-TK-img-2.jpg" width="75%"></div>
+<div align="center"><img src="./../../../img/HT-Keys-TK/HT-Keys-TK-img-3.jpg" width="75%"></div>
 
 ### 販売
 
@@ -48,7 +60,7 @@ A：わたくしが設計・製造している自作キーボードシリーズ�
 ## ファームウェア
 
 本キーボードのファームウェアは <https://github.com/HarusameTech/HT-Keys/releases> で公開しています．また，<https://github.com/HarusameTech/HT-Keys/> で開発を行っています．bug fix や最適化等，ございましたら Pull Request 頂ければ対応いたします  
-更新情報は Twitter で告知いたします．ハッシュタグ [#HT_Keys_TKL](https://twitter.com/hashtag/HT_Keys_TKL?src=hashtag_click) を付けて投稿いたしますので，適宜ご確認頂ければ幸いです
+更新情報は Twitter で告知いたします．ハッシュタグ [#HT_Keys](https://twitter.com/hashtag/HT_Keys?src=hashtag_click) を付けて投稿いたしますので，適宜ご確認頂ければ幸いです
 
 ## Special Thanks
 
